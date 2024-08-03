@@ -9,8 +9,7 @@ A construção deste módulo não só aprimorou minhas habilidades em React, com
 
 ### Veja o projeto online
 
-<!-- 🚀 [Link do projeto online](https://react-ignite-time-rocketseat-n2u5y6zjy.vercel.app/) -->
-
+ ✅  https://ignite-timer-react-rocketseat.vercel.app/
 ### Tecnologias Utilizadas
 
 - React com Vite: ^18.3.1
@@ -127,9 +126,9 @@ npx eslint src --ext .ts, .tsx --fix
 
 1. Clone o repositório:
 
-   <!-- ```bash
-   git clone https://github.com/fabiocasadossites/react-igniteTime-rocketseat.git
-   ``` -->
+   ```bash
+   https://github.com/DevGabrielrr/IgniteTimer-react-rocketseat.git
+   ```
 
 2. Navegue até o diretório do projeto:
 
